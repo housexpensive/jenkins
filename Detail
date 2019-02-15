@@ -11,4 +11,4 @@ github
 jenkins#2
 
 quartz every 5 minutes
-0 0/5 * * * ?
+H/5 * * * *
