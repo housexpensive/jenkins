@@ -3,3 +3,12 @@ go to jenkins
 jenkins = Jenkins manager
 mgr1 = Jenkins node using java
 
+Add credential
+nodejenkins@mgr1 vagrant:key
+dokerhub
+github
+
+jenkins#2
+
+quartz every 5 minutes
+0 0/5 * * * ?
